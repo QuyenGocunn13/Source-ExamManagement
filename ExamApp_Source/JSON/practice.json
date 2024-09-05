@@ -1,0 +1,176 @@
+{
+    "exams": [
+        {
+            "name": "Đề thi toán số 1",
+            "questions": [
+                {
+                    "question": "1 + 1 bằng mấy?",
+                    "options": {
+                        "A": "1",
+                        "B": "2",
+                        "C": "3",
+                        "D": "4"
+                    }
+                },
+                {
+                    "question": "2 + 2 bằng mấy?",
+                    "options": {
+                        "A": "2",
+                        "B": "3",
+                        "C": "4",
+                        "D": "5"
+                    }
+                },
+                {
+                    "question": "3 + 1 bằng mấy?",
+                    "options": {
+                        "A": "3",
+                        "B": "4",
+                        "C": "5",
+                        "D": "6"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Đề thi toán số 2",
+            "questions": [
+                {
+                    "question": "5 - 2 bằng mấy?",
+                    "options": {
+                        "A": "2",
+                        "B": "3",
+                        "C": "4",
+                        "D": "5"
+                    }
+                },
+                {
+                    "question": "4 + 1 bằng mấy?",
+                    "options": {
+                        "A": "3",
+                        "B": "4",
+                        "C": "5",
+                        "D": "6"
+                    }
+                },
+                {
+                    "question": "3 - 1 bằng mấy?",
+                    "options": {
+                        "A": "1",
+                        "B": "2",
+                        "C": "3",
+                        "D": "4"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Đề thi toán số 3",
+            "questions": [
+                {
+                    "question": "4 + 2 bằng mấy?",
+                    "options": {
+                        "A": "5",
+                        "B": "6",
+                        "C": "7",
+                        "D": "8"
+                    }
+                },
+                {
+                    "question": "6 - 1 bằng mấy?",
+                    "options": {
+                        "A": "4",
+                        "B": "5",
+                        "C": "6",
+                        "D": "7"
+                    }
+                },
+                {
+                    "question": "3 + 2 bằng mấy?",
+                    "options": {
+                        "A": "3",
+                        "B": "4",
+                        "C": "5",
+                        "D": "6"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Đề thi toán số 4",
+            "questions": [
+                {
+                    "question": "Số PI có giá trị là bao nhiêu?",
+                    "options": {
+                        "A": "3.14",
+                        "B": "4.12",
+                        "C": "3.15",
+                        "D": "3.16"
+                    }
+                }
+            ]
+        }
+    ],
+    "test": [
+        {
+            "name": "Kiểm tra giữa kỳ 2 - Sinh học",
+            "questions": [
+                {
+                    "question": "Cá có gì trên cơ thể?",
+                    "options": {
+                        "A": "Lông",
+                        "B": "Da",
+                        "C": "Vảy",
+                        "D": "Bánh mỳ"
+                    }
+                },
+                {
+                    "question": "Cá sống ở đâu?",
+                    "options": {
+                        "A": "Trên cạn",
+                        "B": "Dưới nước",
+                        "C": "Trong cây",
+                        "D": "Trên cây"
+                    }
+                },
+                {
+                    "question": "Cá biết bay không?",
+                    "options": {
+                        "A": "Có",
+                        "B": "Không",
+                        "C": "Tùy cơ duyên",
+                        "D": "Có khi nào đâu"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Kiểm tra cuối kỳ - Địa lý",
+            "questions": [
+                {
+                    "question": "Hoàng Sa - Trường Sa là của?",
+                    "options": {
+                        "A": "Việt Nam",
+                        "B": "Việt Nam",
+                        "C": "Việt Nam",
+                        "D": "Việt Nam"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Kiểm tra 15 phút - Lịch sử",
+            "questions": [
+                {
+                    "question": "Bác Hồ sinh năm nào?",
+                    "options": {
+                        "A": "1880",
+                        "B": "1870",
+                        "C": "1910",
+                        "D": "1890"
+                    }
+                }
+            ]
+        }
+    ]
+}

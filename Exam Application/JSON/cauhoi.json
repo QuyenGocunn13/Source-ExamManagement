@@ -1,0 +1,175 @@
+{
+    "questions": [
+        {
+            "question": "Ai là người đã viết bài thơ 'Truyện Kiều'?",
+            "options": {
+                "A": "Nguyễn Du",
+                "B": "Hồ Xuân Hương",
+                "C": "Xuân Diệu",
+                "D": "Tản Đà"
+            }
+        },
+        {
+            "question": "Quốc gia nào đã chiếm Việt Nam trong thời kỳ thuộc địa Pháp?",
+            "options": {
+                "A": "Anh",
+                "B": "Mỹ",
+                "C": "Pháp",
+                "D": "Nhật Bản"
+            }
+        },
+        {
+            "question": "Ai là người sáng lập ra Đại học Quốc gia Hà Nội?",
+            "options": {
+                "A": "Ho Chi Minh",
+                "B": "Võ Nguyên Giáp",
+                "C": "Trần Đại Nghĩa",
+                "D": "Hồ Xuân Hương"
+            }
+        },
+        {
+            "question": "Thành phố nào là thủ đô của Việt Nam?",
+            "options": {
+                "A": "Hồ Chí Minh",
+                "B": "Đà Nẵng",
+                "C": "Hải Phòng",
+                "D": "Hà Nội"
+            }
+        },
+        {
+            "question": "Ai là người đầu tiên đề xuất việc xây dựng Đền Ngọc Sơn?",
+            "options": {
+                "A": "Lý Thường Kiệt",
+                "B": "Trần Hưng Đạo",
+                "C": "Nguyễn Trãi",
+                "D": "Nguyễn Bỉnh Khiêm"
+            }
+        },
+        {
+            "question": "Người nào là người sáng lập ra Đảng Cộng sản Việt Nam?",
+            "options": {
+                "A": "Hồ Chí Minh",
+                "B": "Trần Phú",
+                "C": "Lê Duẩn",
+                "D": "Phan Bội Châu"
+            }
+        },
+        {
+            "question": "Ai là người đầu tiên đề xuất việc xây dựng Cầu Long Biên?",
+            "options": {
+                "A": "Nguyễn Ái Quốc",
+                "B": "Trần Hưng Đạo",
+                "C": "Hoàng Diệu",
+                "D": "Trần Phú"
+            }
+        },
+        {
+            "question": "Ai là người viết 'Nhật ký trong tù'?",
+            "options": {
+                "A": "Hồ Chí Minh",
+                "B": "Võ Nguyên Giáp",
+                "C": "Trịnh Công Sơn",
+                "D": "Nguyễn Thị Ngọc"
+            }
+        },
+        {
+            "question": "Ai là vua lập ra triều đại Hồ?",
+            "options": {
+                "A": "Hồ Quý Ly",
+                "B": "Lê Lợi",
+                "C": "Trần Nhân Tông",
+                "D": "Lý Thường Kiệt"
+            }
+        },
+        {
+            "question": "Núi nào được coi là 'Nóc nhà Đông Dương'?",
+            "options": {
+                "A": "Núi Bà Đen",
+                "B": "Núi Fansipan",
+                "C": "Núi Cấm Sơn",
+                "D": "Núi Hòn Bà"
+            }
+        },
+        {
+            "question": "Ai là người được mệnh danh là 'Bác Hồ'?",
+            "options": {
+                "A": "Hoàng Sa",
+                "B": "Trần Phú",
+                "C": "Hồ Chí Minh",
+                "D": "Hồ Xuân Hương"
+            }
+        },
+        {
+            "question": "Ai là người đầu tiên đặt chân lên Đỉnh Phan Xi Păng?",
+            "options": {
+                "A": "Hoàng Sa",
+                "B": "Trần Phú",
+                "C": "Nguyễn Thị Ngọc",
+                "D": "Trần Hưng Đạo"
+            }
+        },
+        {
+            "question": "Ai là người sáng lập ra Đội tuyển bóng đá quốc gia Việt Nam?",
+            "options": {
+                "A": "Vương Tùng Sơn",
+                "B": "Phan Đình Phùng",
+                "C": "Trần Hưng Đạo",
+                "D": "Lê Hồng Phong"
+            }
+        },
+        {
+            "question": "Ai là vua lập ra triều đại Lý?",
+            "options": {
+                "A": "Lý Bí",
+                "B": "Lý Thường Kiệt",
+                "C": "Lý Công Uẩn",
+                "D": "Lý Thái Tổ"
+            }
+        },
+        {
+            "question": "Ai là người viết 'Diary of a Cricket'?",
+            "options": {
+                "A": "Lý Thường Kiệt",
+                "B": "Nguyễn Du",
+                "C": "Tản Đà",
+                "D": "Nguyễn Huy Tưởng"
+            }
+        },
+        {
+            "question": "Ai là người sáng lập ra Đền Hùng?",
+            "options": {
+                "A": "Lạc Long Quân",
+                "B": "Hùng Vương",
+                "C": "Âu Cơ",
+                "D": "Phan Bội Châu"
+            }
+        },
+        {
+            "question": "Ai là người sáng lập ra Đề Thám?",
+            "options": {
+                "A": "Hồ Chí Minh",
+                "B": "Lê Lợi",
+                "C": "Trần Hưng Đạo",
+                "D": "Lê Đại Hành"
+            }
+        },
+        {
+            "question": "Ai là người viết 'Đất nước'?",
+            "options": {
+                "A": "Hồ Chí Minh",
+                "B": "Phan Bội Châu",
+                "C": "Trịnh Công Sơn",
+                "D": "Nguyễn Thị Ngọc"
+            }
+        },
+        {
+            "question": "Con gì có mấy chân?",
+            "options": {
+                "A": "1",
+                "B": "2",
+                "C": "3",
+                "D": "4"
+            }
+        }
+    ]
+}
